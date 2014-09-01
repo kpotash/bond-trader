@@ -1,0 +1,9 @@
+<Message>
+  <name>Header</name>
+  <field><name>msgType</name><length>2</length></field>
+  <field><name>brokerId</name><length>5</length></field>
+  <field><name>assetClass</name><length>2</length></field>
+  <field><name>msgSeqNo</name><length>5</length></field>
+  <field><name>sendTime</name></field>
+  <field><name>bodyLength</name><length>5</length></field>
+</Message>

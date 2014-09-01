@@ -1,0 +1,8 @@
+<Message>
+  <field><name>initiatorId</name><length>10</length></field>
+  <field><name>isin</name><length>12</length></field>
+  <field><name>description</name><length>20</length></field>
+  <field><name>price</name><length>15</length></field>
+  <field><name>direction</name><length>1</length></field>
+  <field><name>orderId</name><length>25</length></field>
+</Message>

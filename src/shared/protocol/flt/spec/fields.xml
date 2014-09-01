@@ -1,0 +1,16 @@
+<Fields>
+  <field><name>msgType</name><type>string</type></field>
+  <field><name>sendTime</name><type>datetime</type></field>
+  <field><name>bodyLength</name><type>int</type></field>
+  <field><name>brokerId</name><type>string</type></field>
+  <field><name>assetClass</name><type>int</type></field>
+  <field><name>msgSeqNo</name><type>int</type></field>
+  
+  <field><name>initiatorId</name><type>string</type></field>
+  <field><name>isin</name><type>string</type></field>
+  <field><name>description</name><type>string</type></field>
+  <field><name>price</name><type>double</type></field>
+  <field><name>direction</name><type>string</type></field>
+  <field><name>orderId</name><type>string</type></field>
+
+</Fields>

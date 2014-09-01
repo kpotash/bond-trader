@@ -1,0 +1,19 @@
+<Types>
+  <type>
+    <name>int</name>
+  </type>
+  <type>
+    <name>string</name>
+  </type>
+  <type>
+    <name>double</name>
+  </type>
+  <type>
+    <name>date</name>
+    <length>10</length> <!-- iso format -->
+  </type>
+  <type>
+    <name>datetime</name>
+    <length>26</length> <!-- iso format -->
+  </type>
+</Types>
